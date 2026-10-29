@@ -36,11 +36,11 @@ AI_Sales_Intelligence_Assistant/
 │   └── streamlit_app.py
 ├── data/
 │   ├── ai_bi_assistant_sales_data - GET.csv
-│   └── sales.db
 ├── tests/
 │   └── test_analytics.py
 ├── requirements.txt
 ├── README.md
+├── AI_DEVELOPMENT_REPORT.md
 └── .gitignore
 ```
 
