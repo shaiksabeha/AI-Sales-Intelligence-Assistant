@@ -107,7 +107,7 @@ Question: {question}
         import re
 
         months = re.findall(
-            r"\b(20\d{2})[-/]\(0?[1-9]|1[0-2])\b",
+            r"\b(20\d{2})[-/](0?[1-9]|1[0-2])\b",
             question
         )
 
